@@ -1,0 +1,7 @@
+#!/bin/zsh
+
+setopt NO_CLOBBER
+setopt INTERACTIVE_COMMENTS
+setopt HASH_EXECUTABLES_ONLY
+setopt GLOB_STAR_SHORT
+setopt NUMERIC_GLOB_SORT
